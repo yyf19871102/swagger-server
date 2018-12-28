@@ -1,0 +1,16 @@
+{
+  "name": "swagger-server",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {},
+  "description": "",
+  "keywords": [
+    "swagger"
+  ],
+  "bin": "",
+  "author": "yangyufei",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
